@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Chow Tung Seng</h1>
+<h1 align="center">Hi Everyone, I'm Chow Tung Seng</h1>
 <h3 align="center">Software Engineer (Frontend Mobile) based in Malaysia</h3>
 
 I have more than 3 years of experience in the tech industry and am still actively learning new things about software development in my day to day life. I am more familar with JS, TS, React and React Native but would love the opportunity to explore more Backend as well to be more well rounded.   Feel free to reach out to me 📫 **winterchow95@gmail.com** on any questions, discussions or opportunities.
